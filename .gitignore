@@ -1,0 +1,8 @@
+*.csv
+*.h5
+.venv/
+.idea/
+data/*
+log/*
+models/*
+!.gitkeep
